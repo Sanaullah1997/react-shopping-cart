@@ -1,0 +1,52 @@
+{
+    "products":[
+        {
+            "_id":1,
+            "title":"Hair Shampoo",
+            "image":"/images/image1.jpg",
+            "description":"About Hair Shampoo",
+            "price": 12,
+            "availableSizes":["X","XL"]
+        },
+        {
+            "_id":2,
+            "title":"Make-Up Kit",
+            "image":"/images/image2.jpg",
+            "description":"About Whole kit box",
+            "price": 52,
+            "availableSizes":["X","XL","M","XXL"]
+        },
+        {
+            "_id":3,
+            "title":"Face toner",
+            "image":"/images/image3.jpg",
+            "description":"About making face skin smooth",
+            "price": 12,
+            "availableSizes":["X","S"]
+        },
+        {
+            "_id":4,
+            "title":"Lipsticks",
+            "image":"/images/image4.jpg",
+            "description":"About lips care",
+            "price": 6,
+            "availableSizes":["X","XXL"]
+        },
+        {
+            "_id":5,
+            "title":"Whitening Cream",
+            "image":"/images/image5.jpg",
+            "description":"Whitening Face is not important",
+            "price": 9,
+            "availableSizes":["X","XL"]
+        },
+        {
+            "_id":6,
+            "title":"Sanitory Pad",
+            "image":"/images/image6.jpg",
+            "description":"About sanitization during period",
+            "price": 10,
+            "availableSizes":["M","X"]
+        }
+    ]
+}
